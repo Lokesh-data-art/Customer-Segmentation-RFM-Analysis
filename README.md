@@ -59,7 +59,7 @@ The RFM analysis revealed valuable insights:
 ---
 
 ## 📊 Dashboard Preview
-![RFM Dashboard Preview]([RFM_Overview.png](https://github.com/Lokesh-data-art/Customer-Segmentation-RFM-Analysis/blob/main/Images/RFM_Overview.png))
+![RFM Dashboard Preview](Images/RFM_Overview.png)
 
 ---
 
